@@ -1,0 +1,85 @@
+
+.App{
+    /* background-color: linear-gradient(lightblue,pink, yellow); */
+    background-image: linear-gradient(lightblue,pink,lightyellow);
+    height: 100vh;
+    }
+    .text1{
+        text-shadow: 3px 3px 3px aqua;
+        
+    }
+    .button1{
+        position: absolute;
+        height: 50px;
+        width: 30em;
+        background-color:cornflowerblue;
+        color: green;
+        border-radius: 25px;
+        left: 18em;
+        top: 11em;
+        font-style: italic;
+       font-weight: bolder;
+        cursor:pointer;
+        font-size: 15px;
+    
+    }
+    .button2{
+        position: absolute;
+        height: 50px;
+        width: 30em;
+        background-color:cornflowerblue;
+        color: green;
+        border-radius: 25px;
+        left: 55em;
+        top: 11em;
+        font-style: italic;
+        font-weight: bolder;
+        cursor: pointer;
+        font-size: 15px;
+    
+    }
+    .Functional{
+        position: absolute;
+        border: 4px solid black;
+        padding: 20px;
+        border-radius: 3em;
+        background: brown;
+        height: 18em;
+        width: 30em;
+        left: 12em;
+        top: 20em;
+    }
+    .firtcomnt{
+        font-size: 30px;
+        font-weight: bolder;
+    }
+    .secondcomnt{
+        color: blue;
+    }
+    .Class{
+        position: absolute;
+        border: 4px solid black;
+        padding: 20px;
+        border-radius: 3em;
+        background: sienna;
+        height: 18em;
+        width: 30em;
+        left: 50em;
+        top: 20em;
+    }
+    .firtcomnt1{
+        font-size: 30px;
+        font-weight: bolder;
+    }
+    .button1:hover{
+        background-color: rgb(144, 239, 144);
+        text-shadow: 3px 3px 3px white;
+     
+    }
+    .button2:hover{
+        background-color: rgb(144, 239, 144);
+        text-shadow: 3px 3px 3px white;
+        
+    
+    
+    }
