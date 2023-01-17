@@ -1,9 +1,9 @@
 import React, {useState} from 'react'
 import Functional from './Functional';
 import Class from './Class';
-import Style from './Style.css'
 
-const Common = () => {
+
+const App = () => {
  const [state, setState]= useState(false);
  const [state1, setState1] = useState(false);
  
@@ -29,4 +29,4 @@ const Common = () => {
   )
 }
 
-export default Common
+export default App

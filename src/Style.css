@@ -1,6 +1,6 @@
 
 .App{
-    /* background-color: linear-gradient(lightblue,pink, yellow); */
+    
     background-image: linear-gradient(lightblue,pink,lightyellow);
     height: 100vh;
     }
