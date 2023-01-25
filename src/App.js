@@ -1,6 +1,7 @@
 import React, {useState} from 'react'
 import Functional from './Functional';
 import Class from './Class';
+import "./Style.css"
 
 
 const App = () => {
